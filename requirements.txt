@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+selenium
+undetected-chromedriver
+gspread
+google-auth
+python-dotenv
+pytz
+requests
+setuptools

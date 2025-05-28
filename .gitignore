@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+*.log
+
+# Environment
+.env
+.venv/
+venv/
+env/
+
+# Mac and Linux
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Editor configs
+.vscode/
+.idea/
+
+# Credentials
+credentials/
+*.json
+
+# Screenshots and Debug
+*.png
+
+# Docker
+*.pid
+
+# Uvicorn cache
+*.pid
+*.db
+
+# Jupyter notebooks
+*.ipynb_checkpoints
